@@ -1,0 +1,3 @@
+Preko ovog projekta sam hteo da se upoznam sa osnovama ANdroid programiranja. Tako da je i ona jednostavna. Sustinski,ovaj iks-oks moze da igra igrac sam protiv sebe, ili mogu dvojica (ako se otimaju za mis). :)
+Usled nedostatka vremena, nisam mogao da je napravim malo komplikovanijom i zanimljivijom, ali moglo bi se reci i da cekam sledecu Android radionicu FONIS-a za tako nesto. :)
+Uglavnom, radeci ovako malo u Androidu bilo je dovoljno da saznam zapravo sta znaci izreka "Cekati citavu vecnost." (kada greskom zatvorite emulator). Salu na stranu, naucio sam osnovne stvari, i sada mogu da napravim cak i iks-oks koji se igra protiv racunara :D
